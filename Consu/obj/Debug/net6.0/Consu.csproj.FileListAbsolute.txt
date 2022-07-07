@@ -1,0 +1,15 @@
+C:\Users\m1445944\Desktop\C#\consu\bin\Debug\net6.0\Consu.exe
+C:\Users\m1445944\Desktop\C#\consu\bin\Debug\net6.0\Consu.deps.json
+C:\Users\m1445944\Desktop\C#\consu\bin\Debug\net6.0\Consu.runtimeconfig.json
+C:\Users\m1445944\Desktop\C#\consu\bin\Debug\net6.0\Consu.dll
+C:\Users\m1445944\Desktop\C#\consu\bin\Debug\net6.0\Consu.pdb
+C:\Users\m1445944\Desktop\C#\consu\obj\Debug\net6.0\Consu.csproj.AssemblyReference.cache
+C:\Users\m1445944\Desktop\C#\consu\obj\Debug\net6.0\Consu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m1445944\Desktop\C#\consu\obj\Debug\net6.0\Consu.AssemblyInfoInputs.cache
+C:\Users\m1445944\Desktop\C#\consu\obj\Debug\net6.0\Consu.AssemblyInfo.cs
+C:\Users\m1445944\Desktop\C#\consu\obj\Debug\net6.0\Consu.csproj.CoreCompileInputs.cache
+C:\Users\m1445944\Desktop\C#\consu\obj\Debug\net6.0\Consu.dll
+C:\Users\m1445944\Desktop\C#\consu\obj\Debug\net6.0\refint\Consu.dll
+C:\Users\m1445944\Desktop\C#\consu\obj\Debug\net6.0\Consu.pdb
+C:\Users\m1445944\Desktop\C#\consu\obj\Debug\net6.0\Consu.genruntimeconfig.cache
+C:\Users\m1445944\Desktop\C#\consu\obj\Debug\net6.0\ref\Consu.dll
